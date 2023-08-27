@@ -30,7 +30,7 @@ After creating a server, click **Manage** button at the bottom.
 
 You should be redirected to **[the panel](https://panel.botshard.com/)**. If asked, login using the same credentials as your dashboard account.
 
-You are now in the panel for your server!
+You are now in the control panel for your server!
 
 ![Panel Overview](/img/panel_console.png)
 
