@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
 Let's discover **BotShard**.
 
-## 1. Getting Started
+## 1. Creating a server
 
 Get started by **[creating an account](https://dashboard.botshard.com/)**.
 
@@ -30,7 +30,7 @@ After creating a server, click **Manage** button at the bottom.
 
 You should be redirected to **[the panel](https://panel.botshard.com/)**. If asked, login using the same credentials as your dashboard account.
 
-You are now in the panel for your server!
+You are now in the control panel for your server!
 
 ![Panel Overview](/img/panel_console.png)
 
@@ -49,7 +49,7 @@ Here, you will be able to find your server UUID, node, IP and other information 
 
 :::caution
 
-Despite its look, "Type a command" field is dedicated for I/O input into your program, such as one asked by `input()` of Python.
+Despite its look, the "Type a command" field is dedicated for I/O input into your program (e.g. getting input for the `input()` function in Python).
 
 :::
 
@@ -58,7 +58,7 @@ Despite its look, "Type a command" field is dedicated for I/O input into your pr
 
 ![File Manager](/img/panel_file_manager.png)
 
-In this tab, you will be able to manage your files, upload new ones, edit them, archive, rename, and more.
+In this tab, you will be able to manage your files, upload new ones, edit them, archive them, rename them, and more.
 
 
 ### Startup
@@ -136,7 +136,7 @@ By default, the files run by BotShard are:
 
 - ...
 
-If those names don't match with yours main file, you will need to either rename the file itself in **[File Manager](#file-manager)** or go to **[Startup Tab](#startup)** and change the filename there.
+If those names don't match with your main file, you will need to either rename the file itself in **[File Manager](#file-manager)** or go to **[Startup Tab](#startup)** and change the filename there.
 
 ![Change the Startup File](/img/panel_app_py_file.png)
 
@@ -147,7 +147,7 @@ Finally, head to the **[Console](#console)** and click **Start**.
 
 If everything works, hoooray!!! 🥳🥳
 
-Make sure to open the **[dashboard](https://dashboard.botshard.com/)** every 7 days or your server will get suspended. **[Learn Why](common-issues/suspended)**
+Make sure to open the **[dashboard](https://dashboard.botshard.com/)** every 2 days or your server will get suspended. (**[Learn Why](common-issues/suspended)**)
 
 
 ### If it doesn't...
