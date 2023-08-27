@@ -58,7 +58,7 @@ Despite its look, the "Type a command" field is dedicated for I/O input into you
 
 ![File Manager](/img/panel_file_manager.png)
 
-In this tab, you will be able to manage your files, upload new ones, edit them, archive, rename, and more.
+In this tab, you will be able to manage your files, upload new ones, edit them, archive them, rename them, and more.
 
 
 ### Startup
