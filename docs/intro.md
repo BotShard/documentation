@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
 Let's discover **BotShard**.
 
-## 1. Getting Started
+## 1. Creating a server
 
 Get started by **[creating an account](https://dashboard.botshard.com/)**.
 
