@@ -49,7 +49,7 @@ Here, you will be able to find your server UUID, node, IP and other information 
 
 :::caution
 
-Despite its look, "Type a command" field is dedicated for I/O input into your program, such as when asked by the `input()` function from Python.
+Despite its look, the "Type a command" field is dedicated for I/O input into your program (e.g. getting input for the `input()` function in Python).
 
 :::
 
