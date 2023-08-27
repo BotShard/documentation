@@ -78,7 +78,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Get Started",
           },
           {
             href: "https://dashboard.botshard.com/",
