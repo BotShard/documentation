@@ -49,7 +49,7 @@ Here, you will be able to find your server UUID, node, IP and other information 
 
 :::caution
 
-Despite its look, "Type a command" field is dedicated for I/O input into your program, such as one asked by `input()` of Python.
+Despite its look, "Type a command" field is dedicated for I/O input into your program, such as when asked by the `input()` function from Python.
 
 :::
 
@@ -136,7 +136,7 @@ By default, the files run by BotShard are:
 
 - ...
 
-If those names don't match with yours main file, you will need to either rename the file itself in **[File Manager](#file-manager)** or go to **[Startup Tab](#startup)** and change the filename there.
+If those names don't match with your main file, you will need to either rename the file itself in **[File Manager](#file-manager)** or go to **[Startup Tab](#startup)** and change the filename there.
 
 ![Change the Startup File](/img/panel_app_py_file.png)
 
@@ -147,7 +147,7 @@ Finally, head to the **[Console](#console)** and click **Start**.
 
 If everything works, hoooray!!! 🥳🥳
 
-Make sure to open the **[dashboard](https://dashboard.botshard.com/)** every 7 days or your server will get suspended. **[Learn Why](common-issues/suspended)**
+Make sure to open the **[dashboard](https://dashboard.botshard.com/)** every 2 days or your server will get suspended. (**[Learn Why](common-issues/suspended)**)
 
 
 ### If it doesn't...
